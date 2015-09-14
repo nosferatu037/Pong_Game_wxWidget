@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="3dBuzz_EvilMonkeys">
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/blocks.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/drawEngine.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/AppFrame.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/main.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/level.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/character.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/pongplayer.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/ball.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/character.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/pongplayer.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/sprite.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/ball.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/drawEngine.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/level.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/AppFrame.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/blocks.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/stdwx.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/sprite.cpp</file>
+        </group>
+        <group name="3DBuzz_evilMonkeyLevelEditor_wxWidget">
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/blocks.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/drawEngine.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/AppFrame.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/main.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/level.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/character.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/pongplayer.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/ball.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/character.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/pongplayer.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/sprite.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/ball.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/drawEngine.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/level.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/AppFrame.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/blocks.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/stdwx.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/sprite.cpp</file>
+        </group>
+        <group>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/blocks.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/drawEngine.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/AppFrame.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/main.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/level.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/character.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/pongplayer.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/ball.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/character.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/pongplayer.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/sprite.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/ball.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/drawEngine.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/level.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/AppFrame.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/blocks.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game_wxWidget/sprite.cpp</file>
+        </group>
+    </open-files>
+</project-private>
